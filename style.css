@@ -1,0 +1,73 @@
+.header{
+    background-image: url("construction2.jpg");
+    width: 100%;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+}
+.line{
+    border-top: 2px solid yellow;
+    width: 12%;
+}
+.header h4{
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+}
+.header h1{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;  
+}
+.header p{
+    font-size: 8px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#btn1{
+    background-color: yellow;
+    width: 150px;
+    border-style: none;
+    height: 40px;
+    border-radius: 4px;
+}
+#btn11{
+    background-color: yellow;
+    width: 120px;
+    border-style: none;
+    height: 40px;
+    border-radius: 4px;
+}
+#btn2{
+    background-color: transparent;
+    width: 120px;
+    border: 2px solid white;
+    height: 40px;
+    border-radius: 4px;
+
+}
+
+.main1{
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    text-align: start;
+    justify-content: space-around;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main1 h3{
+    font-size: 10px;
+    color: yellow;
+    font-weight: bolder;
+}
+.main1 p{
+    font-size: 12px;
+}
+.line2{
+    border-top: 2px solid yellow;
+    width: 20%;
+}
